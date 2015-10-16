@@ -1,5 +1,6 @@
 'use strict';
 
+var React            = require('react')
 var Region           = require('region-align')
 var assign           = require('object-assign')
 var cloneWithProps   = require('react-clonewithprops')
